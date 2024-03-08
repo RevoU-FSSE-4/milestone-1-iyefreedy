@@ -423,21 +423,25 @@ main .register-wrapper .container {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    border-radius: 3rem;
+    border-radius: 4rem;
     background-image: url(../assets/images/cool-background.png);
 }
 
+main .register-wrapper {
+    padding: 0 2rem;
+}
 main .register-wrapper .container .card-image {
     margin-right: 3rem;
 }
 
 main .register-wrapper .container div:last-child {
     color: var(--bg-body);
-    text-align: start;
+    text-align: center;
 }
 
 main .register-wrapper .container div:last-child h3 {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.85em;
 }
 
 main .register-wrapper .container div:last-child .btn.secondary:hover {
@@ -573,5 +577,13 @@ footer > .container > .row:last-child div {
     main .partner-logos-wrapper ul li a {
         width: 250px;
         padding: 2.5rem;
+    }
+
+    main .register-wrapper .container {
+        border-radius: 4rem;
+    }
+
+    main .register-wrapper .container div:last-child {
+        text-align: start;
     }
 }
