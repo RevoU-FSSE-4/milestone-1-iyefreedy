@@ -326,8 +326,6 @@ main .advantage-wrapper p {
 }
 
 main .advantage-wrapper ul {
-    /* width: 60%;
-    margin: 0 auto; */
     font-size: 0.75rem;
     text-align: center;
 }
@@ -341,9 +339,17 @@ main .advantage-wrapper ul li:not(:last-child) {
     margin-bottom: 0.85em;
 }
 
+main .faq-wrapper h2 {
+    margin-bottom: 0.85em;
+}
+
+main .faq-wrapper > p {
+    margin-bottom: 2em;
+}
+
 main .faq-wrapper .accordion-wrapper {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 1rem;
 }
 
@@ -511,6 +517,24 @@ footer > .container > .row:last-child div {
     main .partner-logos-wrapper ul li a {
         width: 200px;
         padding: 2.25rem;
+    }
+
+    main .advantage-wrapper h2 {
+        font-size: 1.5rem;
+        margin-bottom: 0.5em;
+    }
+
+    main .advantage-wrapper p {
+        font-size: 0.85rem;
+        margin-bottom: 1.5em;
+    }
+
+    main .advantage-wrapper ul {
+        font-size: 1rem;
+    }
+
+    main .faq-wrapper .accordion-wrapper {
+        grid-template-columns: repeat(2, 1fr);
     }
 
     footer {
