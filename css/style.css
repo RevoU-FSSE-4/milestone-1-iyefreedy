@@ -343,7 +343,7 @@ main .faq-wrapper h2 {
     margin-bottom: 0.85em;
 }
 
-main .faq-wrapper > p {
+main .faq-wrapper .container > p {
     margin-bottom: 2em;
 }
 
