@@ -417,6 +417,33 @@ main
     p {
     max-height: 150px;
 }
+
+main .register-wrapper .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 3rem;
+    background-image: url(../assets/images/cool-background.png);
+}
+
+main .register-wrapper .container .card-image {
+    margin-right: 3rem;
+}
+
+main .register-wrapper .container div:last-child {
+    color: var(--bg-body);
+    text-align: start;
+}
+
+main .register-wrapper .container div:last-child h3 {
+    font-size: 2rem;
+}
+
+main .register-wrapper .container div:last-child .btn.secondary:hover {
+    background-color: var(--bg-body);
+    color: var(--primary);
+}
 /* End of main content styles */
 
 /* Footer styles */
