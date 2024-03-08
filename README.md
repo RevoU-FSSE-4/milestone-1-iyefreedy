@@ -13,11 +13,11 @@ See demo [here](https://finvest-id.netlify.app/)
 -   **Statistics Section**: This section showcases positive reviews (2Y+), a high number of users (60K+), and the number of trusted partners (10K+).
 -   **Trust Section**: This section promotes trust with logos of well-known payment platforms (PayPal, DANA, gopay, Shopee Pay) and banks (BCA, Youtube, Mandiri, PermataBank).
 -   **Our Advantages Section**: This section highlights the benefits of using the platform, including managing finances, easy and fast access, customizable options, security and protection, and ease of saving for the long term.
--   **FAQ Section**: A section with the title "Frequently Asked Questions" is included, but the specific questions are not shown in the image.
+-   **FAQ Section**: A section with the title "Frequently Asked Questions" is included, but the specific questions are not shown until user trigger accorion element.
 
 ## Getting Started
 
-To get started with the Revotify website, simply clone this repository to your local machine and open the `index.html` file in your web browser.
+To get started with the FinVest website, simply clone this repository to your local machine and open the `index.html` file in your web browser.
 
 ```bash
 git clone https://github.com/RevoU-FSSE-4/milestone-1-iyefreedy
@@ -28,8 +28,8 @@ cd milestone-1-iyefreedy
 
 Mobile
 
-![InspireArtHub Website Preview](screenshots/mobile.png)
+![Finvest Mobile Preview](screenshots/mobile.png)
 
 Desktop
 
-![InspireArtHub Website Preview](screenshots/desktop.png)
+![Finvest Desktop Preview](screenshots/desktop.png)
