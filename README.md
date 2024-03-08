@@ -4,7 +4,7 @@
 
 This landing page showcases a fictional banking company offering financial services and products. It targets users in Indonesia seeking a modern and convenient banking experience.
 
-See demo [here](https://finvest-id.netlify.app/)
+See demo [here](https://finvest-id.netlify.app/) or [freedcode.shop](https://freedcode.shop)
 
 ## Contents
 
